@@ -1,5 +1,5 @@
 # Sistem Antrian Loket Berbasis ESP32-S3
-Proyek ini mensimulasikan sistem antrian sederhana untuk loket pelayanan, menggunakan **ESP32-S3**, **rotary encoder**, **OLED 128x64**, **LED indikator**, dan **buzzer**.  
+Proyek ini mensimulasikan sistem antrian sederhana untuk loket pelayanan, menggunakan **ESP32-S3**, **rotary encoder**, **OLED**, **LED indikator**, dan **buzzer**.  
 Sistem bekerja dengan membuka/menutup loket menggunakan rotary encoder, serta memanggil nomor antrian menggunakan tombol encoder.
 
 Simulasi ini berjalan di **Wokwi** dan dapat diterapkan pada perangkat asli (ESP32-S3).
@@ -115,7 +115,8 @@ Saat tombol ditekan dalam kondisi loket buka:
   
 ---
 
-# Dokumentasi
+# Simulasi Wiring
+Wokwi:https://wokwi.com/projects/4478364310176
 Rangkaian: <img width="1170" height="789" alt="image" src="https://github.com/user-attachments/assets/d52e2dbd-2779-4d76-af0f-041f395e9f95" />
 
 
