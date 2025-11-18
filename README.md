@@ -125,5 +125,6 @@ Rangkaian: <img width="1170" height="789" alt="image" src="https://github.com/us
 # 👨‍💻 Author
 **Muhammad Irsyad Alkais** 
 **Ghori Ghuraishi Mulyadi**
+
 Computer Engineering Student – PENS  
 IoT • Embedded Systems • ESP32 • Wokwi Simulation
